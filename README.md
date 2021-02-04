@@ -1,24 +1,55 @@
 # ENSE271-Project
 Design and Development a New Website for IABC(Regina)
 
-## About IABC
-ABC/Regina proudly represents communication professionals based in Regina, Saskatchewan and the surrounding area. Our members apply their expertise and skills in strategic communications, crisis management, public relations, media relations, social media, marketing, and corporate communication across all sectors. Connecting through learning, networking, and mentoring opportunities, our organization promotes ethical business communication standards, inspires a passion for learning and helps our members achieve communications excellence in their daily work. We are part of IABC, a global network of communication leaders operating in 70 countries.
-
-IABC Regina is governed by an annually elected slate of directors nominated from the membership. The main focus of the Board is to create opportunities for fellow members to network, learn, and grow. 
-
-IABC/Regina is committed to providing professional development opportunities year-round. All professional development workshops, luncheons, and networking sessions hosted by IABC/Regina focus on topics that are relevant to our chapter members. Increasingly, IABC is offering virtual professional development sessions and partnering with neighbouring chapters (particularly IABC/Saskatoon) to provide expanded networking opportunities. The IABC/Regina website also provides organizations with a platform to advertise career opportunities within Regina and the surrounding area, and this feature is highly valued by employers and members alike.
-
 ## Team: Geonosians
-*Bulbul Arora*   *Li Pan*   *Xia Hua* 
+*Bulbul Arora  *  *  Li Pan  *  *  Xia Hua * 
+
+## Summarized project background & business need/opportunity
+1. Main users : members, admins . 
+2. The IABC needs the website to be simple to users.  
+3. Easy navigation on the website so people can look for the information faster and more easily. 
+4. Attaching more members join.
+5. It’s better to build a new function for membership payment. 
+6. Have their own content which is different from their international site(share IABC regina specific things) -- career page, job seeker, events
+7. Redirect members to the international website for duplicate information(so the board has less content to renew or manage). Also, saves the board members time.
+8. Set up 2-way communication from the board to the members and vice versa( blogs, presentations)
+9. Let members easily post events, news,jobs.
+10. A sign up/ sign in option where members can easily track their events, accreditations etc.
+
+
+## Northstar & carryover customers
+⋅⋅* Organizations who are looking for professionals in communications/ organizations who are going to sponsor events or make donations.
+⋅⋅* Communications professionals who seek guidance from other professionals and communicators who are interested in their accreditations.
+1. Student/ Entry level- These users want to join IABC to add accreditations to their resumes and build connections to find jobs.
+2. Medium level- These users are looking for connections to give them exposure to leadership roles and also to maintain their accreditations.
+3. Senior level- These users are willing to give back to the community by offering their experience and guidance to entry/medium level professionals who reach out.
+IABC Regina 150 members. 
+
+**Carryover customers**: 
+⋅⋅* communicators who are not a part of the regina chapter but might be looking for information that IABC may offer.
+⋅⋅* People looking to gain information on pursuing communications as a profession
+
+
+
+
+
+
+## Project Assumptions
+**AdobeXD **  ** Wordpress**  
+
 
 ## Overview
 > **Activity 1**
+- **Affinity Diagram**
+- **Empathy Map**
+- **User Story Map**
 > **Activity 2**
+
 > **Activity 3**
+
 > **Activity 4**
 
 ## Details
 ### Activity 1
-- **Affinity Diagram**
-- **Empathy Map**
-- **User Story Map**
+
+
