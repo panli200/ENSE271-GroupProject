@@ -2,7 +2,7 @@
 Design and Development a New Website for IABC(Regina)
 
 ## Team: Geonosians
-*Bulbul Arora  *  *  Li Pan  *  *  Xia Hua * 
+*Bulbul Arora*    *Li Pan*  *Xia Hua* 
 
 ## Summarized project background & business need/opportunity
 1. Main users : members, admins . 
@@ -18,24 +18,20 @@ Design and Development a New Website for IABC(Regina)
 
 
 ## Northstar & carryover customers
-⋅⋅* Organizations who are looking for professionals in communications/ organizations who are going to sponsor events or make donations.
-⋅⋅* Communications professionals who seek guidance from other professionals and communicators who are interested in their accreditations.
-1. Student/ Entry level- These users want to join IABC to add accreditations to their resumes and build connections to find jobs.
-2. Medium level- These users are looking for connections to give them exposure to leadership roles and also to maintain their accreditations.
-3. Senior level- These users are willing to give back to the community by offering their experience and guidance to entry/medium level professionals who reach out.
+* Organizations who are looking for professionals in communications/ organizations who are going to sponsor events or make donations.
+* Communications professionals who seek guidance from other professionals and communicators who are interested in their accreditations.
+..1. Student/ Entry level- These users want to join IABC to add accreditations to their resumes and build connections to find jobs.
+..2. Medium level- These users are looking for connections to give them exposure to leadership roles and also to maintain their accreditations.
+..3. Senior level- These users are willing to give back to the community by offering their experience and guidance to entry/medium level professionals who reach out.
 IABC Regina 150 members. 
 
 **Carryover customers**: 
-⋅⋅* communicators who are not a part of the regina chapter but might be looking for information that IABC may offer.
-⋅⋅* People looking to gain information on pursuing communications as a profession
-
-
-
-
+* communicators who are not a part of the regina chapter but might be looking for information that IABC may offer.
+* People looking to gain information on pursuing communications as a profession
 
 
 ## Project Assumptions
-**AdobeXD **  ** Wordpress**  
+**AdobeXD Wordpress**  
 
 
 ## Overview
