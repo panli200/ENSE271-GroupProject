@@ -8,8 +8,8 @@ IABC Regina is governed by an annually elected slate of directors nominated from
 
 IABC/Regina is committed to providing professional development opportunities year-round. All professional development workshops, luncheons, and networking sessions hosted by IABC/Regina focus on topics that are relevant to our chapter members. Increasingly, IABC is offering virtual professional development sessions and partnering with neighbouring chapters (particularly IABC/Saskatoon) to provide expanded networking opportunities. The IABC/Regina website also provides organizations with a platform to advertise career opportunities within Regina and the surrounding area, and this feature is highly valued by employers and members alike.
 
-## Team:Geonosians
-'Bulbul Arora' 'Li Pan' 'Xia Hua' 
+## Team: Geonosians
+`Bulbul Arora` `Li Pan` `Xia Hua` 
 
 ## Overview
 >  **Activity 1**
