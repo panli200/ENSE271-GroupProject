@@ -20,9 +20,9 @@ Design and Development a New Website for IABC(Regina)
 ## Northstar & carryover customers
 * Organizations who are looking for professionals in communications/ organizations who are going to sponsor events or make donations.
 * Communications professionals who seek guidance from other professionals and communicators who are interested in their accreditations.
-..1. Student/ Entry level- These users want to join IABC to add accreditations to their resumes and build connections to find jobs.
-..2. Medium level- These users are looking for connections to give them exposure to leadership roles and also to maintain their accreditations.
-..3. Senior level- These users are willing to give back to the community by offering their experience and guidance to entry/medium level professionals who reach out.
+  * Student/ Entry level- These users want to join IABC to add accreditations to their resumes and build connections to find jobs.
+  * Medium level- These users are looking for connections to give them exposure to leadership roles and also to maintain their accreditations.
+  * Senior level- These users are willing to give back to the community by offering their experience and guidance to entry/medium level professionals who reach out.
 IABC Regina 150 members. 
 
 **Carryover customers**: 
