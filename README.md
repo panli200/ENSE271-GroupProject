@@ -12,13 +12,13 @@ IABC/Regina is committed to providing professional development opportunities yea
 `Bulbul Arora` `Li Pan` `Xia Hua` 
 
 ## Overview
->  **Activity 1**
->  **Activity 2**
->  **Activity 3**
->  **Activity 4**
+> **Activity 1**
+> **Activity 2**
+> **Activity 3**
+> **Activity 4**
 
 ## Details
 ### Activity 1
->  **Affinity Diagram**
->  **Empathy Map**
->  **User Story Map**
+> **Affinity Diagram**
+> **Empathy Map**
+> **User Story Map**
