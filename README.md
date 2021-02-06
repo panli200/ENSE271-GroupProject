@@ -36,9 +36,9 @@ IABC Regina 150 members.
 
 ## Overview
 > **Activity 1 - Understand IABC**
-- **Affinity Diagram**
-- **Empathy Map**
-- **User Story Map**
+- [**Affinity Diagram**](https://github.com/panli200/ENSE271-Project/tree/main/Affinity%20Diagram)
+- [**Empathy Map**](https://github.com/panli200/ENSE271-Project/tree/main/Empathy%20Map)
+- [**User Story Map**](https://github.com/panli200/ENSE271-Project/blob/main/User%20Story%20Map/UserStory.png)
 > **Activity 2**
 
 > **Activity 3**
@@ -46,6 +46,5 @@ IABC Regina 150 members.
 > **Activity 4**
 
 ## Details
-### Activity 1
 
 
