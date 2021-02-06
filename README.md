@@ -35,7 +35,7 @@ IABC Regina 150 members.
 
 
 ## Overview
-> **Activity 1 Understand IABC**
+> **Activity 1 - Understand IABC**
 - **Affinity Diagram**
 - **Empathy Map**
 - **User Story Map**
