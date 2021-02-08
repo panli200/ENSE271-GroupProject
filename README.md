@@ -18,6 +18,7 @@ Design and Development a New Website for IABC(Regina)
 
 
 ## Northstar & carryover customers
+**Targert customers**: 
 * Organizations who are looking for professionals in communications/ organizations who are going to sponsor events or make donations.
 * Communications professionals who seek guidance from other professionals and communicators who are interested in their accreditations.
   * Student/ Entry level- These users want to join IABC to add accreditations to their resumes and build connections to find jobs.
