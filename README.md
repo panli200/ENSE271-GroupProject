@@ -1,4 +1,5 @@
-# ENSE271-Project Design and Development a New Website for IABC(Regina)
+# ENSE271 People-Centred Design - Group Project 
+Design and Development a New Website for IABC(Regina)
 
 ---
 
