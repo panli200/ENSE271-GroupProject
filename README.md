@@ -4,7 +4,7 @@ Design and Development a New Website for IABC(Regina)
 ---
 
 ## Team: Geonosians
-*Bulbul Arora*     *Li Pan*    *Xia Hua* 
+*Bulbul Arora,*     *Li Pan,*    *Xia Hua* 
 
 ---
 
