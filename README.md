@@ -2,7 +2,7 @@
 Design and Development a New Website for IABC(Regina)
 
 ## Team: Geonosians
-*Bulbul Arora*    *Li Pan*  *Xia Hua* 
+*@Bulbul Arora*    *@Li Pan*  *@Xia Hua* 
 
 ## Background & Business Need/Opportunity
 1. A website that clearly highlights membership benefits and events. 
@@ -40,10 +40,6 @@ Design and Development a New Website for IABC(Regina)
 * Knowledge gap between Designer vs the actual customer. 
 * Lack of targeted user feedback.
 * Lack the communication background and the development in the future to consider. 
-
-
-
-
 
 
 ## Overview
