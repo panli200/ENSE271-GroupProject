@@ -1,8 +1,12 @@
 # ENSE271-Project
 Design and Development a New Website for IABC(Regina)
 
+---
+
 ## Team: Geonosians
 *Bulbul Arora*     *Li Pan*    *Xia Hua* 
+
+---
 
 ## Background & Business Need/Opportunity
 1. A website that clearly highlights membership benefits and events. 
@@ -16,6 +20,7 @@ Design and Development a New Website for IABC(Regina)
 9. A sign up/ sign in option where members can easily enroll for events etc.
 10. Create an option where employers can post jobs themselves.
 
+---
 
 ## Northstar & carryover customers
 **Targert customers**: 
@@ -29,11 +34,13 @@ Design and Development a New Website for IABC(Regina)
 * Communicators who are not a part of IABC.
 * People looking to gain information on pursuing communications as a profession.
 
+---
 
 ## Project Assumptions
 **AdobeXD**
 **Wordpress**  
 
+---
 ## Project Constraints
 * Financial Constraints - Tradeoff between performance and the allotted budget.
 * Limitation techinique support by using Wordpress or AdobeXD.
@@ -41,6 +48,7 @@ Design and Development a New Website for IABC(Regina)
 * Lack of targeted user feedback.
 * Lack the communication background and the development in the future to consider. 
 
+---
 
 ## Overview
 > **Activity 1 - Understand IABC**
