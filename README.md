@@ -61,6 +61,6 @@ Design and Development a New Website for IABC(Regina)
 
 > **Activity 4**
 
-## Details
+
 
 
