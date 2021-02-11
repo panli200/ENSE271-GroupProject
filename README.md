@@ -22,8 +22,8 @@ Design and Development a New Website for IABC(Regina)
 
 ---
 
-## Northstar & carryover customers
-**Targert customers**: 
+## Northstar & Carryover customers
+**Northstar customers**: 
 * IABC Regina members :
   * Student/ Entry level- These users join IABC to add accreditations to their resumes and build connections to find jobs.
   * Medium level- These users are looking for connections to give them exposure to leadership roles and also to maintain their accreditations.
@@ -44,7 +44,7 @@ Design and Development a New Website for IABC(Regina)
 ## Project Constraints
 * Financial Constraints - Tradeoff between performance and the allotted budget.
 * Limitation techinique support by using Wordpress or AdobeXD.
-* Knowledge gap between Designer vs the actual customer. 
+* Knowledge gap between the designer vs the actual customer. 
 * Lack of targeted user feedback.
 * Lack the communication background and the development in the future to consider. 
 
