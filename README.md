@@ -55,6 +55,8 @@ Design and Development a New Website for IABC(Regina)
 - [**Affinity Diagram**](https://github.com/panli200/ENSE271-Project/tree/main/Affinity%20Diagram)
 - [**Empathy Map**](https://github.com/panli200/ENSE271-Project/tree/main/Empathy%20Map)
 - [**User Story Map**](https://github.com/panli200/ENSE271-Project/blob/main/User%20Story%20Map/UserStory.png)
+- [**Customer Notes**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Customer%20Notes/Customer%20Notes%20-%20IABC.pdf)
+- [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%231%20presentation.pdf)
 
 
 
