@@ -1,5 +1,5 @@
-<h1 align="center">IENSE271 People-Centred Design - Group Project</h1>
-<p align="center">Design and Development a New Website for IABC(Regina)</p>
+<h1 align="center">IABC Regina Web Desgin Project</h1>
+<p align="center">ENSE271 People-Centred Design - Group Project(Regina)</p>
 
 ## Team: Geonosians
 *Bulbul Arora,*     *Li Pan,*    *Xia Hua* 
