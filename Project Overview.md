@@ -27,10 +27,12 @@
   * Medium level- These users are looking for connections to give them exposure to leadership roles and also to maintain their accreditations.
   * Senior level- These users are willing to give back to the community by offering their experience and guidance to entry/medium level professionals.
 * Organizations who are looking for professionals in communications.
+* IABC administrators 
 
 **Carryover customers**: 
 * Communicators who are not a part of IABC.
 * People looking to gain information on pursuing communications as a profession.
+* public 
 
 ---
 
