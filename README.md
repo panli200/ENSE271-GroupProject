@@ -21,7 +21,7 @@ Design and Development a New Website for IABC(Regina)
 - [**Asset Inventory/Content Inventory**]()
 - [**Site Map**]()
 - [**Low-fidelity Prototype**]()
-- [**Customer Notes**]()
+- [**Customer Notes**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Customer%20Notes/Customer%20Notes%20%232%20-%20IABC.pdf)
 - [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%232%20Presentation.pdf)
 
 
