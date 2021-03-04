@@ -22,7 +22,7 @@ Design and Development a New Website for IABC(Regina)
 - [**Site Map**]()
 - [**Low-fidelity Prototype**]()
 - [**Customer Notes**]()
-- [**Presentation**]()
+- [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%232%20Presentation.pdf)
 
 
 
