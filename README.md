@@ -19,7 +19,7 @@ Design and Development a New Website for IABC(Regina)
 
 > **Activity 2 - Brainstorm**
 - [**Asset Inventory/Content Inventory**]()
-- [**Site Map**]()
+- [**Site Map**](https://github.com/panli200/ENSE271-GroupProject/tree/main/Site%20Map)
 - [**Low-fidelity Prototype**]()
 - [**Customer Notes**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Customer%20Notes/Customer%20Notes%20%232%20-%20IABC.pdf)
 - [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%232%20Presentation.pdf)
