@@ -29,7 +29,7 @@ Design and Development a New Website for IABC(Regina)
 - [**High-fidelity Prototype Mobile**](https://github.com/panli200/ENSE271-GroupProject/blob/main/High-Fidelity%20Prototype/High_Fidelity_Prototype_Mobile.pdf)
 - [**Customer Notes**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Customer%20Notes/Activity%233%20Customer%20Notes%20-%20IABC.pdf)
 - [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%233%20Presentation.pdf)
-- [**Updated User Story Map**]()
+- [**Updated User Story Map**](https://github.com/panli200/ENSE271-GroupProject/blob/main/User%20Story%20Map/Updated_UserStoryMap_version3.PNG)
 - [**Updated Site Map**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Site%20Map/Updated_SiteMap.pdf)
 - [**High-fidelity Design Report**](https://github.com/panli200/ENSE271-GroupProject/blob/main/High-Fidelity%20Prototype/High_Fidelity_design_report.pdf)
 
