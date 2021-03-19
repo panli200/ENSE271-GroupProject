@@ -24,5 +24,12 @@ Design and Development a New Website for IABC(Regina)
 - [**Customer Notes**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Customer%20Notes/Activity%232%20Customer%20Notes%20-%20IABC.pdf)
 - [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%232%20Presentation.pdf)
 
+> **Activity 3 - Build**
+- [**Site Map**]()
+- [**High-fidelity Prototype**]()
+- [**Customer Notes**]()
+- [**Presentation**]()
+- [**Updated Empathy Map**]()
+- [**Updated User Story Map**]()
 
 
