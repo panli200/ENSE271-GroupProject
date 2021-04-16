@@ -34,7 +34,7 @@ Design and Development a New Website for IABC(Regina)
 - [**High-fidelity Design Report**](https://github.com/panli200/ENSE271-GroupProject/blob/main/High-Fidelity%20Prototype/High_Fidelity_design_report.pdf)
 
 > **Activity 4 - Product Delivery**
-- [**High-fidelity Prototype Web**]()
+- [**WordPress Solution**]()
 - [**Customer Notes**]()
 - [**Presentation**]()
 - [**Updated User Story Map**]()
