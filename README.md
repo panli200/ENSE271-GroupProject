@@ -39,6 +39,6 @@ Design and Development a New Website for IABC(Regina)
 - [**Instructor-Team Check-in Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Instructor_team%20check-in.pdf)
 - [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%234%20Presentation.pdf)
 - [**Customer Notes**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Customer%20Notes/Activity%234%20Customer%20Notes%20-%20IABC.pdf)
-- [**Updated User Story Map**]()
+- [**Updated User Story Map**](https://github.com/panli200/ENSE271-GroupProject/blob/main/User%20Story%20Map/Updtaed_UserStoryMap_version4.PNG)
 - [**Project Report**]()
 
