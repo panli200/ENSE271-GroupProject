@@ -38,7 +38,7 @@ Design and Development a New Website for IABC(Regina)
 - [**Website Screenshot**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Website%20Screenshot/Website%20Screenshot%20-Geonosians.pdf)
 - [**Instructor-Team Check-in Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Instructor_team%20check-in.pdf)
 - [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%234%20Presentation.pdf)
-- [**Customer Notes**]()
+- [**Customer Notes**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Customer%20Notes/Activity%234%20Customer%20Notes%20-%20IABC.pdf)
 - [**Updated User Story Map**]()
 - [**Project Report**]()
 
