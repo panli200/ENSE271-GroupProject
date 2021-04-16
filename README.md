@@ -6,7 +6,7 @@ Design and Development a New Website for IABC(Regina)
 ## Team: Geonosians
 *Bulbul Arora,*     *Li Pan,*    *Xia Hua* 
 
-## [wordPress Solution Link](http://34.71.134.229/wordpress/)
+## WordPress Solution Link(http://34.71.134.229/wordpress/)
 ---
 
 ## Overview
@@ -34,9 +34,10 @@ Design and Development a New Website for IABC(Regina)
 - [**High-fidelity Design Report**](https://github.com/panli200/ENSE271-GroupProject/blob/main/High-Fidelity%20Prototype/High_Fidelity_design_report.pdf)
 
 > **Activity 4 - Product Delivery**
-- [**WordPress Solution**]()
+- [**Website Screenshot**]()
+- [**Instructor-Team Check-in Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Instructor_team%20check-in.pdf)
+- [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%234%20Presentation.pdf)
 - [**Customer Notes**]()
-- [**Presentation**]()
 - [**Updated User Story Map**]()
 - [**Project Report**]()
 
