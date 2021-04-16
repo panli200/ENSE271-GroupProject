@@ -35,7 +35,7 @@ Design and Development a New Website for IABC(Regina)
 - [**High-fidelity Design Report**](https://github.com/panli200/ENSE271-GroupProject/blob/main/High-Fidelity%20Prototype/High_Fidelity_design_report.pdf)
 
 > **Activity 4 - Product Delivery**
-- [**Website Screenshot**]()
+- [**Website Screenshot**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Website%20Screenshot/Website%20Screenshot%20-Geonosians.pdf)
 - [**Instructor-Team Check-in Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Instructor_team%20check-in.pdf)
 - [**Presentation**](https://github.com/panli200/ENSE271-GroupProject/blob/main/Presentation/Activity%234%20Presentation.pdf)
 - [**Customer Notes**]()
